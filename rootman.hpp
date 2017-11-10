@@ -1,2 +1,3 @@
-#define SHAQ
+#define BIG_SHAQ
 #define ASZNEE
+#define FRISBEE
